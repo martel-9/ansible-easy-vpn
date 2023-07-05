@@ -1,5 +1,5 @@
 .DS_Store
-secret.yml
+
 .vscode
 .venv
 .ansible
